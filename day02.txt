@@ -67,7 +67,7 @@ stage에 올라와있는 상황을 영구적으로 저장 : commit
 git commit -m "커밋 메시지"
     커밋을 할 때 작성하고 싶은 메시지를 쌍따옴표 안쪽에 써준다
     이때, commit은 stage에 올라와있는 상태가 영구적으로 저장된다!!!
-
+d
 -a 옵션
     git commit -am "커밋메시지"
 
