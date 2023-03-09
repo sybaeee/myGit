@@ -74,7 +74,7 @@ git commit -m "커밋 메시지"
 git status
     git 저장소의 상태를 확인해줘
 
-git add 파일이름
+git add 파일이름 
     해당파일을 stage에 올려줘
     untracked(git 저장소 내에서 새롭게 만든 파일들) 파일들은 tracked 상태로 변경되고,
     stage에 해당 내용들이 올라간다(stage 상태가 된다)
